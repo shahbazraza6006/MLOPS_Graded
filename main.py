@@ -3,3 +3,4 @@ for num in range(21):
         print(f"{num} is even.")
     else:
         print(f"{num} is odd.")
+#Saim made changes
