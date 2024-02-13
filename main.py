@@ -4,3 +4,4 @@ for num in range(21):
     else:
         print(f"{num} is odd.")
 #Saim made changes
+# Shahbaz pulled saim changes and editing it
