@@ -1,3 +1,5 @@
 # MLOPS_Graded
 
-![Alt text](relative/path/to/image.png)
+Below is the screenshot to create branch
+
+![Alt text](commands_ss.png)
